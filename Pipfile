@@ -8,6 +8,8 @@ name = "pypi"
 [packages]
 slackclient = "*"
 "bs4" = "*"
+lxml = "*"
+tabulate = "*"
 
 [requires]
 python_version = "3.6"
